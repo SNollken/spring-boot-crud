@@ -1,4 +1,4 @@
-package springbootcrud.listatarefas;
+package br.edu.listatarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ListatarefasApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ListatarefasApplication.class, args);
 	}
-
 }
